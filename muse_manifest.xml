@@ -1,0 +1,119 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sodiqib.ma" resolutions="1x" timestamp="1480031444620">
+  <folder name="css">
+    <file name="site_global.css" crc="3771790150"/>
+    <file name="master_a-master.css" crc="4026392031" ref="projets:index:contact"/>
+    <file name="projets.css" crc="3784475566" ref="projets"/>
+    <file name="iefonts_projets.css" crc="4041330196" ref="projets"/>
+    <file name="index.css" crc="4100683097" ref="index"/>
+    <file name="iefonts_index.css" crc="3997422669" ref="index"/>
+    <file name="contact.css" crc="3820203214" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3907868006" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="th01.jpg" crc="3838588052" seo="true" mt="1480027376000"/>
+    <file name="th02.jpg" crc="311962043" seo="true" mt="1480027408000"/>
+    <file name="th03.jpg" crc="3782853915" seo="true" mt="1480027430000"/>
+    <file name="th04.jpg" crc="4192899261" seo="true" mt="1480027453000"/>
+    <file name="th05.jpg" crc="4125153750" seo="true" mt="1480027478000"/>
+    <file name="th06.jpg" crc="3782854187" seo="true" mt="1480027529000"/>
+    <file name="dsc01955.jpg" crc="500239231" seo="true" mt="1477651324000"/>
+    <file name="dsc01961.jpg" crc="341742513" seo="true" mt="1477651324000"/>
+    <file name="dsc01962.jpg" crc="4207293188" seo="true" mt="1477651324000"/>
+    <file name="dsc01963.jpg" crc="3992597805" seo="true" mt="1477651324000"/>
+    <file name="dsc01965.jpg" crc="3775098337" seo="true" mt="1477651326000"/>
+    <file name="dsc01966.jpg" crc="4206151401" seo="true" mt="1477651326000"/>
+    <file name="dsc00841.jpg" crc="3844630654" seo="true" mt="1477655376000"/>
+    <file name="dsc01025.jpg" crc="193931854" seo="true" mt="1477655376000"/>
+    <file name="dsc01045.jpg" crc="342634786" seo="true" mt="1477655376000"/>
+    <file name="dsc01053.jpg" crc="3883157182" seo="true" mt="1477655376000"/>
+    <file name="dsc02092.jpg" crc="3906184699" seo="true" mt="1477655378000"/>
+    <file name="dsc02456.jpg" crc="3880077034" seo="true" mt="1477655378000"/>
+    <file name="dsc01128.jpg" crc="4031078301" seo="true" mt="1477655328000"/>
+    <file name="dsc01130.jpg" crc="3799665286" seo="true" mt="1477655328000"/>
+    <file name="dsc01137.jpg" crc="385071410" seo="true" mt="1477655328000"/>
+    <file name="dsc01139.jpg" crc="261391043" seo="true" mt="1477655328000"/>
+    <file name="dsc01143.jpg" crc="244359143" seo="true" mt="1477655328000"/>
+    <file name="dsc01166.jpg" crc="4100931098" seo="true" mt="1477655328000"/>
+    <file name="dsc02259.jpg" crc="3888739357" seo="true" mt="1477652464000"/>
+    <file name="dsc02261.jpg" crc="3924124917" seo="true" mt="1477652464000"/>
+    <file name="dsc02265.jpg" crc="12513018" seo="true" mt="1477652466000"/>
+    <file name="dsc02268.jpg" crc="296901276" seo="true" mt="1477652466000"/>
+    <file name="dsc02269.jpg" crc="4252762640" seo="true" mt="1477652466000"/>
+    <file name="dsc02264.jpg" crc="457818750" seo="true" mt="1477652464000"/>
+    <file name="1.jpg" crc="4135628683" seo="true" mt="1480030287000"/>
+    <file name="2.jpg" crc="4256825236" seo="true" mt="1480030284000"/>
+    <file name="3.jpg" crc="145061422" seo="true" mt="1480030280000"/>
+    <file name="4.jpg" crc="4191211469" seo="true" mt="1480030277000"/>
+    <file name="5.jpg" crc="52759250" seo="true" mt="1480030272000"/>
+    <file name="6.jpg" crc="4165898918" seo="true" mt="1480030268000"/>
+    <file name="a.jpg" crc="4175354426" seo="true" mt="1480030488000"/>
+    <file name="b.jpg" crc="3867045335" seo="true" mt="1480030481000"/>
+    <file name="c.jpg" crc="4220504528" seo="true" mt="1480030477000"/>
+    <file name="d.jpg" crc="23233381" seo="true" mt="1480030472000"/>
+    <file name="e.jpg" crc="4112697010" seo="true" mt="1480030460000"/>
+    <file name="f.jpg" crc="4252474404" seo="true" mt="1480030450000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:contact:projets"/>
+    <file name="museutils.js" crc="3851988764" ref="index:contact:projets"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:projets"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:contact:projets"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:contact:projets"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:contact:projets"/>
+    <file name="webpro.js" crc="4067903014" ref="index:contact"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index:contact:projets"/>
+    <file name="require.js" crc="4108833657" ref="index:contact:projets"/>
+    <file name="pie.js" crc="3831537696" ref="contact"/>
+    <file name="form_check.php" crc="121412709" ref="contact"/>
+    <file name="form_throttle.php" crc="4268640971" ref="contact"/>
+    <file name="form_process.php" crc="444429785" ref="contact"/>
+    <file name="form-u1598.php" crc="357688866" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="mainbg.jpg" crc="3915176312" ref="index"/>
+    <file name="pattern.png" crc="224973819" ref="index:contact:projets"/>
+    <file name="logo_slider.png" crc="3894064550" seo="true" ref="index"/>
+    <file name="tel.png" crc="340593432" seo="true" ref="index"/>
+    <file name="mlogo.png" crc="3840209992" seo="true" ref="index:contact:projets"/>
+    <file name="adr.png" crc="107938585" seo="true" ref="index:contact:projets"/>
+    <file name="tel2.png" crc="3948705130" seo="true" ref="index:contact:projets"/>
+    <file name="entreprise_logo.jpg" crc="4749326" seo="true" ref="index"/>
+    <file name="arrox_bullet.png" crc="298186346" seo="true" ref="index"/>
+    <file name="profile_img.jpg" crc="4062696314" ref="index"/>
+    <file name="titlebg.png" crc="478764746" seo="true" ref="index"/>
+    <file name="somebg.jpg" crc="253885448" ref="index"/>
+    <file name="01.jpg" crc="3887622075" seo="true" ref="index"/>
+    <file name="02.jpg" crc="4045190100" seo="true" ref="index"/>
+    <file name="03.jpg" crc="4089526895" seo="true" ref="index"/>
+    <file name="bat.jpg" crc="441246322" ref="index"/>
+    <file name="mat.jpg" crc="95573994" ref="index"/>
+    <file name="elec.jpg" crc="4290431362" ref="index"/>
+    <file name="kf.jpg" crc="125029936" seo="true" ref="index"/>
+    <file name="pk.jpg" crc="86239232" seo="true" ref="index"/>
+    <file name="ki.jpg" crc="4265033060" seo="true" ref="index"/>
+    <file name="oh.jpg" crc="4179886975" seo="true" ref="index"/>
+    <file name="pl.jpg" crc="277260062" seo="true" ref="index"/>
+    <file name="sl.jpg" crc="350420654" seo="true" ref="index"/>
+    <file name="logo.jpg" crc="3862599033" seo="true" ref="index"/>
+    <file name="footer_bg.jpg" crc="18419185" ref="index"/>
+    <file name="light_logo.png" crc="98341334" seo="true" ref="index:contact:projets"/>
+    <file name="location.png" crc="4134478683" seo="true" ref="index:contact:projets"/>
+    <file name="msg.png" crc="414877116" seo="true" ref="index:contact:projets"/>
+    <file name="phone.png" crc="4247288054" seo="true" ref="index:contact:projets"/>
+    <file name="contact_bg.jpg" crc="72354258" ref="contact"/>
+    <file name="user.png" crc="157352954" ref="contact"/>
+    <file name="email.png" crc="3760545500" ref="contact"/>
+    <file name="message.png" crc="3987699486" ref="contact"/>
+    <file name="phone2.png" crc="3861642874" ref="contact"/>
+    <file name="u1608-17.png" crc="523684208" ref="contact"/>
+    <file name="u1608-17-r.png" crc="3777619052" ref="contact"/>
+    <file name="u1608-17-m.png" crc="3777619052" ref="contact"/>
+    <file name="u1608-17-fs.png" crc="4003875523" ref="contact"/>
+    <file name="website.png" crc="499370973" ref="contact"/>
+    <file name="projets_bg.jpg" crc="3817555482" ref="projets"/>
+  </folder>
+  <file name="index.html" crc="4215548122" seo="true" mt="1480030936625" redirect="true"/>
+  <file name="contact.html" crc="265764236" seo="true" mt="1480031166209" redirect="true"/>
+  <file name="projets.html" crc="273715208" seo="true" mt="1480031412199" redirect="true"/>
+</manifest>
